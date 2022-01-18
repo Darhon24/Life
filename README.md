@@ -33,7 +33,7 @@ _Note: Use the [Markdown Table Generator](http://www.tablesgenerator.com/markdow
 | Web-2      |DVWA Server |10.0.0.10   |Linux
 |web-3       |DVWA Server | 10.0.0.4   |Linux
 |Elk-1       | Elk Server | 10.1.0.4   |Linux
-|Red_Team|   | Load Balancer| 20.109.176.114| N/A
+|Red_Team  | Load Balancer| 20.109.176.114| N/A
 
 ### Access Policies
 
